@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0460-lfu-cache/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
