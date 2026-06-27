@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
