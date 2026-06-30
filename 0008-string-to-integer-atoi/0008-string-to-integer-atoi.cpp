@@ -32,9 +32,7 @@ public:
         if (i == n)
             return 0;
 
-        int value = 0;
-        int min = INT_MIN / 10;
-        int max = INT_MAX / 10;
+        int value = 0;;
 
         while (i < n && isdigit(s[i])) {
             int digit = s[i] - '0';//get the digits from ASCCI values
