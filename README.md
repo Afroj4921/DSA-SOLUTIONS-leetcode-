@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
