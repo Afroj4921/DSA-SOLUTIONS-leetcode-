@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0686-repeated-string-match/) | Medium |
 ## Monotonic Stack
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -138,5 +140,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
