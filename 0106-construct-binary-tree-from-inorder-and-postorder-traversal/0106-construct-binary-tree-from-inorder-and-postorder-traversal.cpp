@@ -13,14 +13,14 @@ class Solution {
 public:
     TreeNode* buildTree(vector<int>& postorder, int postStart, int postEnd, vector<int>& inorder, int inStart,
      int inEnd, map<int, int>& mp){
-        if(postStart < postEnd || inStart >  inEnd) return NULL;
+        if(postStart > postEnd || inStart >  inEnd) return NULL;
 
-        TreeNode* root = new TreeNode(postorder[postStart]);
-        int inRoot = mp[root->val];
-        int numRight = inEnd - inRoot;
+        TreeNode* root = new TreeNode(postorder[postEnd]);
+        int inRoot = mp[postorder[postEnd]];
+        int numLeft = inRoot - inStart;
 
-        root->right = buildTree(postorder, postStart-1, postStart-numRight, inorder, inRoot+1, inEnd, mp);
-        root->left = buildTree(postorder, postStart-numRight-1, postEnd, inorder, inStart, inRoot-1, mp);
+        root->left = buildTree(postorder, postStart, postStart+numLeft-1, inorder, inStart, inRoot-1, mp);
+        root->right = buildTree(postorder, postStart+numLeft, postEnd-1, inorder, inRoot+1, inEnd, mp);
 
         return root;
     }
@@ -30,7 +30,7 @@ public:
         for(int i=0; i<inorder.size(); i++){
             mp[inorder[i]] = i;
         }
-        TreeNode* root = buildTree(postorder, postorder.size()-1, 0, inorder, 0, inorder.size()-1, mp);
+        TreeNode* root = buildTree(postorder, 0, postorder.size()-1, inorder, 0, inorder.size()-1, mp);
         return root;
     }
 };
