@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0155-min-stack/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0146-lru-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -218,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
