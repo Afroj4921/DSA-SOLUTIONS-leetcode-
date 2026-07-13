@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0460-lfu-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0460-lfu-cache/) | Hard |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -261,8 +265,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
