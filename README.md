@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
