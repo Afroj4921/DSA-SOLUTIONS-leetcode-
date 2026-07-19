@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0133-clone-graph](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 ## Data Stream
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -344,4 +348,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
