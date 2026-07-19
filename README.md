@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 ## Data Stream
@@ -338,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0207-course-schedule/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
