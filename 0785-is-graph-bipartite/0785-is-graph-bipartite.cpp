@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool bfs(int st, int n, vector<vector<int>>& graph, vector<int>& color){
+    bool bfs(int st, vector<vector<int>>& graph, vector<int>& color){
         color[st] = 0;
         queue<int> q;
         q.push(st);
@@ -25,7 +25,7 @@ public:
 
         for(int i=0; i<n; i++){
             if(color[i] == -1){
-                if(bfs(i, n, graph, color) == false){
+                if(bfs(i, graph, color) == false){
                     return false;
                 }
             }
