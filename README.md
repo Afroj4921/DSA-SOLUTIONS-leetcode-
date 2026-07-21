@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -356,4 +360,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
