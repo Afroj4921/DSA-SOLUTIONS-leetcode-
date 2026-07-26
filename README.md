@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -378,10 +379,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
