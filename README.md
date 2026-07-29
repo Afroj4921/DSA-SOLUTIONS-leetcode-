@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0198-house-robber/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
@@ -394,4 +396,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
