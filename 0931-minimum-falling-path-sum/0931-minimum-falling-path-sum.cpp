@@ -9,10 +9,20 @@ public:
         for(int i=1; i<n; i++){
             vector<int> curr(n, 0);
             for(int j=0; j<n; j++){
-                int ld = INT_MAX, rd = INT_MAX;
                 int s = matrix[i][j] + prev[j];
-                if(j-1 >= 0) ld = matrix[i][j] + prev[j-1];
-                if(j+1 < n) rd = matrix[i][j] + prev[j+1];
+                int ld = matrix[i][j];
+                if(j-1 >= 0){
+                    ld += prev[j-1];
+                } else{
+                    ld += 1e9;
+                }
+
+                int rd = matrix[i][j];
+                if(j+1 < n){
+                    rd += prev[j+1];
+                } else{
+                    rd += 1e9;
+                }
 
                 curr[j] = min({s, ld, rd});
             }
