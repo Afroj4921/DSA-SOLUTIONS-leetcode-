@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0686-repeated-string-match](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0686-repeated-string-match/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -445,5 +447,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
