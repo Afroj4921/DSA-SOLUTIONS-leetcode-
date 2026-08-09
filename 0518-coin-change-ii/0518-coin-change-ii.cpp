@@ -14,20 +14,21 @@ public:
 
     int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<double>> dp(n, vector<double> (amount+1, 0));
+        vector<double> prev(amount+1, 0), curr(amount+1, 0);
 
-        for(int T=0; T<=amount; T++) dp[0][T] = (T%coins[0] == 0);
+        for(int T=0; T<=amount; T++) prev[T] = (T%coins[0] == 0);
 
         for(int ind=1; ind<n; ind++){
             for(int T=0; T<=amount; T++){
-                double notTake = dp[ind-1][T];
+                double notTake = prev[T];
                 double take = 0;
-                if(coins[ind] <= T) take = dp[ind][T-coins[ind]];
+                if(coins[ind] <= T) take = curr[T-coins[ind]];
                 
-                dp[ind][T]  = take + notTake;
+                curr[T]  = take + notTake;
             }
+            prev = curr;
         }
 
-        return (int)dp[n-1][amount];
+        return (int)prev[amount];
     }
 };
