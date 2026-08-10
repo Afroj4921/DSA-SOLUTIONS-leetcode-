@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0038-count-and-say/) | Medium |
+| [0072-edit-distance](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
