@@ -17,7 +17,7 @@ public:
         vector<int> after(T+1, 0), curr(T+1, 0);
 
         for(int ind=n-1; ind>=0; ind--){
-            for(int trans=0; trans<T; trans++){
+            for(int trans=T-1; trans>=0; trans--){
                 if(trans % 2 == 0){
                     curr[trans] = max(-prices[ind] + after[trans+1], 0 + after[trans]);
                 } else{
