@@ -14,17 +14,18 @@ public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
         int T = 2*k;
-        vector<vector<int>> dp(n+1, vector<int> (T+1, 0));
+        vector<int> after(T+1, 0), curr(T+1, 0);
 
         for(int ind=n-1; ind>=0; ind--){
             for(int trans=0; trans<T; trans++){
                 if(trans % 2 == 0){
-                    dp[ind][trans] = max(-prices[ind] + dp[ind+1][trans+1], 0 + dp[ind+1][trans]);
+                    curr[trans] = max(-prices[ind] + after[trans+1], 0 + after[trans]);
                 } else{
-                    dp[ind][trans] = max(prices[ind] + dp[ind+1][trans+1], 0+ dp[ind+1][trans]);
+                    curr[trans] = max(prices[ind] + after[trans+1], 0+ after[trans]);
                 }
             }
+            after = curr;
         }
-        return dp[0][0];
+        return after[0];
     }
 };
