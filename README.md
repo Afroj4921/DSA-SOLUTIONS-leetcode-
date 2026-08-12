@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0518-coin-change-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0733-flood-fill](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -478,4 +480,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 <!---LeetCode Topics End-->
