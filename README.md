@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Hash Table
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0686-repeated-string-match](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0686-repeated-string-match/) | Medium |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -232,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
