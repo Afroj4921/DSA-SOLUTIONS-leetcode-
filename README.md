@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0115-distinct-subsequences/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0242-valid-anagram/) | Easy |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0213-house-robber-ii/) | Medium |
