@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
