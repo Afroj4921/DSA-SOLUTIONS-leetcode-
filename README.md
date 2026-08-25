@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
