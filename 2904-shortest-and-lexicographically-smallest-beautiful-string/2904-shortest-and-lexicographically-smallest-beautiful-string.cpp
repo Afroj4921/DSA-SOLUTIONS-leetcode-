@@ -4,6 +4,8 @@ public:
         int n = s.size();
         int i = 0, j = 0;
         int ones = 0;
+        //TC = O(n*n)
+        // sc = O(n)
         string result = "";
         while(j < n){
             if(s[j] == '1'){
