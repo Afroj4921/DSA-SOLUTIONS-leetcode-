@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1927-sum-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
