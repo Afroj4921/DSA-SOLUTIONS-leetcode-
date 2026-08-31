@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0146-lru-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0460-lfu-cache/) | Hard |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
