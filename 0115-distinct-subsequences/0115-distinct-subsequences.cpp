@@ -1,13 +1,12 @@
 class Solution {
 public:
-    // recurssion + memoization
-    int f(int i, int j, string &s, string &t, vector<vector<int>>& dp){
-        if(j == 0) return 1;
-        if(i == 0) return 0;
+    int f(int i, int j, string& s, string& t, vector<vector<int>>& dp){
+        if(j < 0) return 1;
+        if(i < 0)return 0;
 
         if(dp[i][j] != -1) return dp[i][j];
-        if(s[i-1] == t[j-1]){
-            return dp[i][j] = f(i-1, j-1, s, t, dp) + f(i-1, j, s, t, dp);
+        if(s[i] == t[j]){
+            return dp[i][j] = (f(i-1, j-1, s, t, dp) + f(i-1, j, s, t, dp));
         }
         return dp[i][j] = f(i-1, j, s, t, dp);
     }
@@ -22,10 +21,10 @@ public:
         for(int i=1; i<=n; i++){
             for(int j=m; j>=1; j--){
                 if(s[i-1] == t[j-1]){
-                    prev[j] = prev[j-1] + prev[j];
+                    prev[j] = prev[j-1] + prev[j] ;
                 }
             }
-        } 
+        }
         return (int)prev[m];
     }
 };
