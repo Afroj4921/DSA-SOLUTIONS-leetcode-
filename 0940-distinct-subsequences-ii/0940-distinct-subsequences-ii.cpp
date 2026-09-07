@@ -1,6 +1,7 @@
 class Solution {
 public:
     int M = 1e9 + 7;
+    // recursion and memoization
     int f(int n, vector<int> &prev, vector<int>& dp){
         if(n == 0) return 1;
         if(dp[n] != -1) return dp[n];
@@ -25,6 +26,18 @@ public:
             lastseen[idx] = i;
         }
         vector<int> dp(n+1, -1);
-        return (f(n, prev, dp)-1 + M) % M;
+
+        dp[0] = 1;
+        for(int i=1; i<=n; i++){
+            int total = (2* dp[i-1]) % M;
+
+            if(prev[i] != 0){
+                int duplicate = dp[prev[i] - 1];
+                total = (total - duplicate + M) % M;
+            }
+
+            dp[i] = total;
+        }
+        return (dp[n] - 1 + M) % M;
     }
 };
