@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0686-repeated-string-match](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0686-repeated-string-match/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
