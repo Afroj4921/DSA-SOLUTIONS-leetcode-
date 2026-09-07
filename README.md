@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0213-house-robber-ii/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
+| [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
