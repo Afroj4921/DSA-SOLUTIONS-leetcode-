@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0312-burst-balloons/) | Hard |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
