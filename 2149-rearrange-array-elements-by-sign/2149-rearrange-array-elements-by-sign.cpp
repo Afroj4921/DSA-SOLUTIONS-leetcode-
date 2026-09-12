@@ -11,20 +11,9 @@ public:
                 neg.push_back(nums[i]);
             }
         }
-        int i=0, j=0, k=0;
-        while(i < pos.size() && j < neg.size()){
-            nums[k] = pos[i];
-            i++;
-            k++;
-            nums[k] = neg[j];
-            j++;
-            k++;
-            
-        }
-        while(j < neg.size()){
-            nums[k] = neg[j];
-            j++;
-            k++;
+        for(int i=0; i<n/2; i++){
+            nums[i*2] = pos[i];
+            nums[i*2+1] = neg[i];
         }
         return nums;
     }
