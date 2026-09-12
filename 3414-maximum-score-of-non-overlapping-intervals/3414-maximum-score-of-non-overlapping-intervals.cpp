@@ -21,6 +21,7 @@ public:
         return result;
     }
 
+    // reccursion + memoiztion
     Node f(vector<vector<int>>& intervals, int i, int n, int k, vector<int>& nextIdx, vector<vector<Node>>& dp){
         if(k == 0 || i >= n){
             return Node();
@@ -69,6 +70,33 @@ public:
         int k = 4;
         vector<vector<Node>> dp(n+1, vector<Node>(k + 1));
 
-        return f(intervals, 0, n, k, nextIdx, dp).idxs;
+        for(int i=n-1; i>=0; i--){
+            int wt = intervals[i][2];
+            int idx = intervals[i][3];
+            int j = nextIdx[i];
+
+            for(int k=1; k<=4; k++){
+                Node notTake = dp[i+1][k];
+
+                Node temp = dp[j][k-1];
+                Node take;
+                take.score = temp.score + wt;
+                take.idxs = temp.idxs;
+                take.idxs.push_back(idx);
+                sort(take.idxs.begin(), take.idxs.end());
+
+                Node result;
+                if(notTake.score > take.score){
+                    result = notTake;
+                }else if(notTake.score < take.score){
+                    result = take;
+                }else{
+                    result = (notTake.idxs < take.idxs) ? notTake : take;
+                }
+
+                dp[i][k] = result;
+            }
+        }
+        return dp[0][4].idxs;
     }
 };
