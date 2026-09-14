@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -599,4 +600,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
