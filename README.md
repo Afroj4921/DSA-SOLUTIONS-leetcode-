@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
