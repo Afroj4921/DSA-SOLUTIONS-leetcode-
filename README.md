@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0518-coin-change-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
