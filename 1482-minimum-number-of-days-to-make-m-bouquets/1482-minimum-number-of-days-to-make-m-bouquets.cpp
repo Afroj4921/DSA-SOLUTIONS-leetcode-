@@ -16,7 +16,9 @@ public:
     }
 
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int low = *min_element(bloomDay.begin(), bloomDay.end());
+        long long val = m*1LL*k*1LL;
+        if(val > bloomDay.size()) return -1;
+         int low = *min_element(bloomDay.begin(), bloomDay.end());
         int high = *max_element(bloomDay.begin(), bloomDay.end());
         int ans = -1;
 
