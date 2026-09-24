@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
