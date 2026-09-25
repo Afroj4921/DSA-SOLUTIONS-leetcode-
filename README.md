@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -278,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -603,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
