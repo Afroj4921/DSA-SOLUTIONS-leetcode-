@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
