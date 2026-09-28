@@ -7,8 +7,9 @@ public:
         stack<int> st;
         for(char& ch : s){
             if(ch == '('){
-                st.push(cnt++);
-                ans = max(ans, cnt-1);
+                st.push(cnt);
+                ans = max(ans, cnt);
+                cnt++;
             }else if(ch == ')'){
                 st.pop();
                 cnt--;
