@@ -39,6 +39,29 @@ public:
 
         vector<vector<vector<int>>> dp(m+1, vector<vector<int>>(n+1, vector<int> (m+n, -1)));
 
-        return f(0, 0, 0, grid, dp);
+        for(int i=m-1; i>=0; i--){
+            for(int j=n-1; j>=0; j--){
+                for(int openCnt=0; openCnt<=i+j+1; openCnt++){
+                    if(i == m-1 && j == n-1){
+                        dp[i][j][openCnt] = (openCnt == 0);
+                        continue;
+                    }
+                    dp[i][j][openCnt] = false;
+
+                    if(i+1 < m){
+                        int newOpCnt = (grid[i+1][j]) == '(' ? openCnt+1 : openCnt-1;
+                        if(newOpCnt >= 0 && dp[i+1][j][newOpCnt] == true)
+                            dp[i][j][openCnt] = true;
+                    }
+                    if(j+1 < n){
+                        int newOpCnt = (grid[i][j+1]) == '(' ? openCnt+1 : openCnt-1;
+                        if(newOpCnt >= 0 && dp[i][j+1][newOpCnt] == true)
+                            dp[i][j][openCnt] = true;
+                    }
+                }
+            }
+        }
+
+        return dp[0][0][1];
     }
 };
