@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0507-perfect-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
