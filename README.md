@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0044-wildcard-matching/) | Hard |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## 0-1 Knapsack
@@ -694,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
