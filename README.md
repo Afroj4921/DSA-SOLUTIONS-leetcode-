@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
