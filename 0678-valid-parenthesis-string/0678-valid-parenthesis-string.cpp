@@ -1,23 +1,24 @@
 class Solution {
 public:
-    bool f(string& s, int idx, int cnt, int n, vector<vector<int>>& dp){
-        if(cnt < 0) return false;
-        if(idx == n) return (cnt == 0);
-
-        if(dp[idx][cnt] != -1) return dp[idx][cnt];
-
-        if(s[idx] == '('){
-           return dp[idx][cnt] = f(s, idx+1, cnt+1, n, dp);
-        }
-        if(s[idx] == ')'){
-           return dp[idx][cnt] = f(s, idx+1, cnt-1, n, dp);
-        }
-        return dp[idx][cnt] = (f(s, idx+1, cnt+1, n, dp) || f(s, idx+1, cnt-1, n, dp) || f(s, idx+1, cnt, n, dp));
-    }
-
     bool checkValidString(string s) {
         int n = s.size();
-        vector<vector<int>> dp(n, vector<int> (n, -1));
-        return f(s, 0, 0, n, dp);
+        int mini = 0;
+        int maxi = 0;
+
+        for(int i=0; i<n; i++){
+            if(s[i] == '('){
+                mini = mini + 1;
+                maxi = maxi + 1;
+            }else if(s[i] == ')'){
+                mini = mini - 1;
+                maxi = maxi - 1;
+            }else{
+                mini = mini - 1;
+                maxi = maxi + 1;
+            }
+            if(mini < 0) mini = 0;
+            if(maxi < 0) return false;
+        }
+        return (mini == 0);
     }
 };
