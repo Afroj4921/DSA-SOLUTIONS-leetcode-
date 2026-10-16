@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0035-search-insert-position/) | Easy |
+| [0051-n-queens](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0051-n-queens/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0051-n-queens/) | Hard |
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## 0-1 Knapsack
@@ -739,4 +741,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
