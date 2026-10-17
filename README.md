@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Divide and Conquer
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
