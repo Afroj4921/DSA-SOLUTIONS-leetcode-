@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0282-expression-add-operators/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0189-rotate-array/) | Medium |
+| [0282-expression-add-operators](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0282-expression-add-operators/) | Hard |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0507-perfect-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0507-perfect-number/) | Easy |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0051-n-queens/) | Hard |
+| [0282-expression-add-operators](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0282-expression-add-operators/) | Hard |
 | [0494-target-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## 0-1 Knapsack
