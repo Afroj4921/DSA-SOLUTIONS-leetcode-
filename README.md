@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -643,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
