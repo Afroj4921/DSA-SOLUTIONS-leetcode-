@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -677,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -741,12 +747,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
