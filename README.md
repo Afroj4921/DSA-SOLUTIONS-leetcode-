@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
