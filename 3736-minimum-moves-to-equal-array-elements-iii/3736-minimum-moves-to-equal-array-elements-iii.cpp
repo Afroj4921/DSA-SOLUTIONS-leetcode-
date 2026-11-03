@@ -10,6 +10,6 @@ public:
             maxi = max(maxi, nums[i]);
         }
 
-        return abs(sum - n*maxi);
+        return n*maxi - sum;
     }
 };
