@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0743-network-delay-time/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
