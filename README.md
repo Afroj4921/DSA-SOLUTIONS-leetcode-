@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1043-partition-array-for-maximum-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1048-longest-string-chain/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Quickselect
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -574,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -685,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
