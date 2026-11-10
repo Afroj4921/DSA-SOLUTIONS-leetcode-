@@ -26,8 +26,27 @@ public:
     }
 
     int climbStairs(int n, vector<int>& costs) {
-        vector<int> memo(n, -1);
+        vector<int> dp(n+1, 0);
 
-        return helper(0, n, costs, memo);
+        for(int i=n-1; i>=0; i--){
+            int cost = INT_MAX;
+
+            int j = i+1;//one step
+            if(j<=n){
+                cost = dp[j] + costs[j-1] + (j-i)*(j-i);
+            }
+            
+            j = i+2;//two steps
+            if(j<=n){
+                cost = min(cost, dp[j] + costs[j-1] + (j-i)*(j-i));
+            }
+            
+            j = i+3;//three steps
+            if(j<=n){
+                cost = min(cost, dp[j] + costs[j-1] + (j-i)*(j-i));
+            }
+            dp[i] = cost;
+        }
+        return dp[0];
     }
 };
