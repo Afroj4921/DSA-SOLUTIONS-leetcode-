@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0146-lru-cache](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0146-lru-cache/) | Medium |
@@ -854,4 +857,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
