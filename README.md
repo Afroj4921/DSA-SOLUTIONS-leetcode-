@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
