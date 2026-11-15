@@ -741,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
