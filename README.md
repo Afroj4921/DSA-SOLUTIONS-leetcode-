@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0162-find-peak-element/) | Medium |
@@ -745,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0029-divide-two-integers/) | Medium |
+| [0137-single-number-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
