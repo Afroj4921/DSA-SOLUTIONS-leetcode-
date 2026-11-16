@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0260-single-number-iii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
