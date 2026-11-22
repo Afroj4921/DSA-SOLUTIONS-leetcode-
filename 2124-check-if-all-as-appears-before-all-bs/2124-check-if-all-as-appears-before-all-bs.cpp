@@ -4,10 +4,8 @@ public:
         int n = s.size();
 
         for(int i=0; i<n; i++){
-            if(i+1<n){
-                if(s[i] == 'b' && s[i+1] == 'a'){
-                    return false;
-                }
+            if(s[i] == 'b' && s[i+1] == 'a'){
+                return false;
             }
         }
         return true;
