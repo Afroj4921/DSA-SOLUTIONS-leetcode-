@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2409-count-days-spent-together/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3360-stone-removal-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -726,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Afroj4921/DSA-SOLUTIONS-leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
