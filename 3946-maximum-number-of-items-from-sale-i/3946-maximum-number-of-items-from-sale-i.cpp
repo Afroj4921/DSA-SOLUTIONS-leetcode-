@@ -41,7 +41,27 @@ public:
             copies[i] = copy;
         }
 
-        memset(t, -1, sizeof(t));
-        return solve(n, budget, minPrice, items, copies);
+        vector<vector<int>> dp(n+1, vector<int>(budget + 1, 0));
+
+        for(int b=0; b<=budget; b++){
+            dp[0][b] = b/minPrice;
+        }
+
+        for(int i=1; i<=n; i++){
+            for(int b=0; b<=budget; b++){
+                int take = 0;
+                int price = items[i-1][1];
+
+                if(price <= b){
+                    take = 1 + copies[i-1] + dp[i-1][b - price];
+                }
+
+                int skip = 0 + dp[i-1][b];
+
+                dp[i][b] = max(take, skip);
+            }
+        }
+
+        return dp[n][budget];
     }
 };
